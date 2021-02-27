@@ -2,7 +2,7 @@
 java面试准备
 
 ### 2021-02-27
-- [x] [ThreadLocal 实现原理是什么？](https://github.com/loyalto/java-interview/blob/main/2021-02-26/String%20%E7%B1%BB%E8%83%BD%E4%B8%8D%E8%83%BD%E8%A2%AB%E7%BB%A7%E6%89%BF%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F.md)
+- [x] [ThreadLocal 实现原理是什么？](https://github.com/loyalto/java-interview/blob/main/2021-02-27/ThreadLocal%20%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
 
 ### 2021-02-26
 - [x] [String 类能不能被继承？为什么？](https://github.com/loyalto/java-interview/blob/main/2021-02-26/String%20%E7%B1%BB%E8%83%BD%E4%B8%8D%E8%83%BD%E8%A2%AB%E7%BB%A7%E6%89%BF%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F.md)

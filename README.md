@@ -1,6 +1,9 @@
 # java-interview
 java面试准备
 
+### 2021-02-28
+- [x] [Java 线程和操作系统的线程是怎么对应的？Java线程是怎样进行调度的](https://github.com/loyalto/java-interview/blob/main/2021-02-27/Java+%e7%ba%bf%e7%a8%8b%e5%92%8c%e6%93%8d%e4%bd%9c%e7%b3%bb%e7%bb%9f%e7%9a%84%e7%ba%bf%e7%a8%8b%e6%98%af%e6%80%8e%e4%b9%88%e5%af%b9%e5%ba%94%e7%9a%84%ef%bc%9fJava%e7%ba%bf%e7%a8%8b%e6%98%af%e6%80%8e%e6%a0%b7%e8%bf%9b%e8%a1%8c%e8%b0%83%e5%ba%a6%e7%9a%84.md)
+
 ### 2021-02-27
 - [x] [ThreadLocal 实现原理是什么？](https://github.com/loyalto/java-interview/blob/main/2021-02-27/ThreadLocal%20%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)
 
